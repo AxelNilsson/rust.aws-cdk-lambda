@@ -40,7 +40,7 @@ export const Settings = {
     /**
      * Custom Lambda Runtime, running on `Amazon Linux 2`
      */
-    RUNTIME: Runtime.PROVIDED_AL2,
+    RUNTIME: Runtime.PROVIDED_AL2023,
 
     /**
      * Whether to build each executable individually, either via `--bin` or
